@@ -1,0 +1,37 @@
+
+
+Frontend Git-Hub link: 	https://github.com/RajeshManoharan92/urlshotener-frontend
+
+Backend Git-Hub link: 	https://github.com/RajeshManoharan92/urlshortener-backend
+
+Frontend-deployed-link: https://62a61fe1863c2a057d70fd3c--rajesh-m-urlshortener-frontend.netlify.app/
+
+Backend-deployed-link: https://rajesh-m-urlshortener-backend.herokuapp.com/getdatas
+
+localhost =  3002
+
+Endpoints:
+
+       METHOD			API					   PURPOSE
+
+	POST	http://localhost:3002/urlshortner 		-->  to get url shortened
+
+	GET	http://localhost:3002/gettotalproductcount 	--> To get url's count
+
+	POST	http://localhost:3002/register   		--> For new user registeration
+
+	POST	http://localhost:3002/login     	 	--> For user login
+
+	POST	http://localhost:3002/forgotpass 		--> To send verification email
+
+	POST	http://localhost:3002/setnewpassword 		--> To set new password
+
+	GET	http://localhost:3002/getdatas  		--> to get all url's
+
+	POST	http://localhost:3002/verification 		--> to send account activation mail
+
+	
+
+
+
+ 
